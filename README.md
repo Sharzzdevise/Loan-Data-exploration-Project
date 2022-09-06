@@ -1,4 +1,6 @@
 # Prosper Loan Data Exploration
+![this](https://user-images.githubusercontent.com/102169299/188697436-074d3052-d68e-4910-b881-a140e876a633.jpg)
+
 
 
 ## by Sharon Dim
